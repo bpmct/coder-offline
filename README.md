@@ -28,4 +28,4 @@ You'll likely want to create your own builds to support these use cases:
 - Use network mirror for Terraform providers
 - Change Terraform version
 
-See the [Dockerfile](./Dockerfile) for instructions creating custom builds.
+Reference the [Dockerfile](./Dockerfile) for guidelines.
